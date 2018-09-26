@@ -1,0 +1,14 @@
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\bin\Debug\netcoreapp2.1\HaveYourApi.deps.json
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\bin\Debug\netcoreapp2.1\HaveYourApi.runtimeconfig.json
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\bin\Debug\netcoreapp2.1\HaveYourApi.runtimeconfig.dev.json
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\bin\Debug\netcoreapp2.1\HaveYourApi.dll
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\bin\Debug\netcoreapp2.1\HaveYourApi.pdb
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\obj\Debug\netcoreapp2.1\HaveYourApi.csprojAssemblyReference.cache
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\obj\Debug\netcoreapp2.1\HaveYourApi.csproj.CoreCompileInputs.cache
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\obj\Debug\netcoreapp2.1\HaveYourApi.RazorAssemblyInfo.cache
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\obj\Debug\netcoreapp2.1\HaveYourApi.RazorAssemblyInfo.cs
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\obj\Debug\netcoreapp2.1\HaveYourApi.AssemblyInfoInputs.cache
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\obj\Debug\netcoreapp2.1\HaveYourApi.AssemblyInfo.cs
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\obj\Debug\netcoreapp2.1\HaveYourApi.RazorTargetAssemblyInfo.cache
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\obj\Debug\netcoreapp2.1\HaveYourApi.dll
+C:\code\talks\HaveYourCakeAndBuildItToo\src\HaveYourApi\obj\Debug\netcoreapp2.1\HaveYourApi.pdb

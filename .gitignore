@@ -1,0 +1,6 @@
+# Build Related
+tools/**
+!tools/packages.config
+build/**
+
+.vscode/**
